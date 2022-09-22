@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     private EditText buscar,Direccion,Nombre, Id;
-    private Button BtnBuscar, BtnGuardar;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
